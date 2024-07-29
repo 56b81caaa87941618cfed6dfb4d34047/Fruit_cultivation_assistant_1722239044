@@ -46,5 +46,9 @@
     {
         "level": 1,
         "task_description": "add a button with text Arrow"
+    },
+    {
+        "level": 1,
+        "task_description": "add a button with text Scroll"
     }
 ]
