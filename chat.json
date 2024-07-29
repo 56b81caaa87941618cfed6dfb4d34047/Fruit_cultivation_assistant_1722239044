@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What is the desired text for your new button?\", \"option1\": \"Use default text options (e.g., 'Submit', 'Cancel')\", \"option2\": \"Specify custom text\"}, {\"question 2\": \"What action should the button trigger upon being clicked?\", \"option1\": \"Navigate to another page or section within the app\", \"option2\": \"Perform an app function (e.g., submit a form, refresh content)\"}], \"input_token_count\": 577, \"output_token_count\": 105, \"time_taken\": \"0:00:03.847834\"}",
+        "message_id": "guest29072024093716",
+        "timestamp": "29072024093726",
+        "component_file_name": "dark_header_component_1722239085",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, adding a button.",
         "message_id": "guest29072024093716",
