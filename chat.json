@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, I am adding a button with the text \"Arrow\".",
+        "message_id": "guest29072024091706",
+        "timestamp": "29072024091706",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Arrow",
         "message_id": "guest29072024091706",
