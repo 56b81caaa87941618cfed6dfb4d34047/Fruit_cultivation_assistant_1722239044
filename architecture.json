@@ -38,5 +38,9 @@
     {
         "level": 1,
         "task_description": "add a button with text Gender"
+    },
+    {
+        "level": 1,
+        "task_description": "add a button with text Arrow"
     }
 ]
