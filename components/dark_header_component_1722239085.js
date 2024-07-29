@@ -4,14 +4,14 @@
 
 Vue.component("dark_header_component_1722239085", {
     template: `
-    <header id="header-component" style="height: 390px"    class="z-30 bg-white">
+    <header id="header-component" style="height: 190px"     class="z-30 bg-white">
         <div class="max-w-xl lg:max-w-[calc(50%+theme(maxWidth.xl))] mx-auto px-4 sm:px-6">
             <div class="flex items-center justify-between h-16 md:h-20">
                 <!-- Site branding -->
                 <div id="site-branding" class="shrink-0 mr-4 lg:fixed">
                     <!-- Logo -->
                     <a class="flex items-center space-x-4" href="index.html" aria-label="Cruip">
-                        <img id="site-logo" class="rounded-full" src="./images/logo.jpg" width="32" height="32" alt="Mary Rutt">
+                        <img id="site-logo" class="rounded-full" src="https://makeinfinite-mentat-dev.azurewebsites.net/get_image/Fruit_cultivation_assistant_1722239044/logo.jpg" width="32" height="32" alt="Mary Rutt">
                         <span id="site-name" :class="siteNameStyle">Juicy Jane</span>
                     </a>
                 </div>
