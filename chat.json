@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button",
+        "message_id": "guest29072024093716",
+        "timestamp": "29072024093717",
+        "component_file_name": "dark_header_component_1722239085",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I will add a button with the text \"Scroll\".",
         "message_id": "guest29072024091724",
