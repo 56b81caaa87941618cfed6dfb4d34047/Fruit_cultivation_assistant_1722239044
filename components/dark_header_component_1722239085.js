@@ -38,7 +38,13 @@ Vue.component("dark_header_component_1722239085", {
 
                 <div class="flex-1">
                     <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded shadow-lg m-2">Nine</button>
+
                 </div>
+
+                <div class="flex-1">
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded shadow-lg m-2">Great</button>
+                </div>
+
 
                 </div>
             </div>
