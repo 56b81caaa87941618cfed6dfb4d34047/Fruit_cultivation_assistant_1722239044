@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What functionality do you want the button to perform when clicked?\", \"option1\": \"Navigate the user to another page\", \"option2\": \"Open a modal or popup with more information\"}, {\"question 2\": \"Where on the app do you want the button to be located?\", \"option1\": \"Below the main content or information section\", \"option2\": \"Fixed at the bottom or top of the screen for easy accessibility\"}], \"input_token_count\": 256, \"output_token_count\": 102, \"time_taken\": \"0:00:05.755152\"}",
+        "message_id": "guest29072024081013",
+        "timestamp": "29072024081020",
+        "component_file_name": "dark_header_component_1722239085",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I will add a new button.",
         "message_id": "guest29072024081013",
