@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where should the 'Ok' button be located within the app interface?\", \"option1\": \"At the bottom of the screen within easy thumb reach\", \"option2\": \"Next to the input field it is associated with\"}, {\"question 2\": \"What action will be triggered when the 'Ok' button is tapped?\", \"option1\": \"Submit form data or confirmation of an action\", \"option2\": \"Close the current view or modal\"}], \"input_token_count\": 259, \"output_token_count\": 105, \"time_taken\": \"0:00:03.994660\"}",
+        "message_id": "guest29072024091610",
+        "timestamp": "29072024091615",
+        "component_file_name": "dark_header_component_1722239085",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will add a button with the text \"Ok\".",
         "message_id": "guest29072024091610",
