@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will add a button with the text \"Ok\".",
+        "message_id": "guest29072024091610",
+        "timestamp": "29072024091611",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Ok",
         "message_id": "guest29072024091610",
