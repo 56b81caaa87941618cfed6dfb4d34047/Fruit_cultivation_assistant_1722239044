@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Animated arrow indicating scroll down on landing page\", \"checked\": true}, {\"feature\": \"Back-to-top floating button for easy navigation\", \"checked\": false}, {\"feature\": \"Expandable menu button for categorization of fruits\", \"checked\": true}, {\"feature\": \"Button with a cart icon for easy addition of items to purchase\", \"checked\": true}, {\"feature\": \"Refresh button to update the list of available fruits\", \"checked\": false}, {\"feature\": \"Toggle switch for dark/light mode for user comfort\", \"checked\": false}], \"input_token_count\": 213, \"output_token_count\": 116, \"time_taken\": \"0:00:04.403728\"}",
+        "message_id": "guest29072024091706",
+        "timestamp": "29072024091711",
+        "component_file_name": "dark_header_component_1722239085",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Arrow' button to be positioned on the app?\", \"option1\": \"In a fixed position at the bottom right corner of the screen\", \"option2\": \"As part of the top navigation bar\"}, {\"question 2\": \"What action should be triggered when the 'Arrow' button is clicked?\", \"option1\": \"Navigate to the previous page\", \"option2\": \"Scroll to the top of the current page\"}], \"input_token_count\": 259, \"output_token_count\": 106, \"time_taken\": \"0:00:04.028473\"}",
         "message_id": "guest29072024091706",
