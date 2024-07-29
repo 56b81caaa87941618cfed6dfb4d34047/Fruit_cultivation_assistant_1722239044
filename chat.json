@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Great' button to be positioned on the app's interface?\", \"option1\": \"Next to the existing 'Nine' button\", \"option2\": \"In a new section dedicated for this button\"}, {\"question 2\": \"What function should the 'Great' button perform upon being clicked?\", \"option1\": \"Navigate to a new page within the app\", \"option2\": \"Display a popup message or action\"}], \"input_token_count\": 325, \"output_token_count\": 105, \"time_taken\": \"0:00:05.703344\"}",
+        "message_id": "guest29072024091516",
+        "timestamp": "29072024091523",
+        "component_file_name": "dark_header_component_1722239085",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Adding a button with the text \"Great\".",
         "message_id": "guest29072024091516",
